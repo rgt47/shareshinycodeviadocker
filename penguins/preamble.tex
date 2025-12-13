@@ -1,0 +1,19 @@
+\usepackage[export]{adjustbox}
+\usepackage{fancyhdr}
+\usepackage{titling}
+
+\pagestyle{fancy}
+
+\pretitle{
+\begin{flushright}
+\includegraphics[width=3cm,valign=c]{sudoku.png}\\
+\end{flushright}
+\begin{flushleft} \LARGE }
+\posttitle{\par\end{flushleft}\vskip 0.5em}
+\predate{\begin{flushleft}\large}
+	\postdate{\par\end{flushleft}}
+	\preauthor{\begin{flushleft}\large}
+	\postauthor{\par\end{flushleft}}
+\fancyfoot[L]{\currfilename} %put date in header
+\fancyfoot[R]{\includegraphics[width=.8cm]{sudoku.png}}
+\fancyhead[L]{\today} %put current file in footer
