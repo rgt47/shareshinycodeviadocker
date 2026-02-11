@@ -1,6 +1,6 @@
 ---
 title: 'Simple process for sharing R code via Docker'
-draft: true
+draft: false
 image: "img/Rlogo.jpg"
 date: now
 document-type: "blog"
