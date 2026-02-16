@@ -6,7 +6,7 @@ subtitle: >
   so collaborators can run it on any machine
 author: "Ronald G. Thomas"
 date: "2025-06-28"
-categories:
+categories: [r, docker, shiny, reproducibility, containerization]
   [R Programming, Docker, Shiny, Reproducibility]
 description: >
   I did not really know how unreliable it was to share
