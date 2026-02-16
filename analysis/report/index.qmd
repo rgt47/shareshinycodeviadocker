@@ -109,12 +109,7 @@ I am documenting my learning process here. If you
 spot errors or have better approaches, please let
 me know.
 
-![A researcher working at a desk with a laptop
-and a second monitor showing a web application.
-](media/images/ambiance1.png){.img-fluid
-fig-alt="A researcher at a desk with an open laptop
-and a second monitor displaying a web application
-interface."}
+![](media/images/docker-logo.png){.img-fluid width=30% fig-align="center"}
 
 *The application begins on one machine, but
 collaborators need to run it on theirs.*
