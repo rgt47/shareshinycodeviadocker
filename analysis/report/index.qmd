@@ -7,7 +7,6 @@ subtitle: >
 author: "Ronald G. Thomas"
 date: "2025-06-28"
 categories: [r, docker, shiny, reproducibility, containerization]
-  [R Programming, Docker, Shiny, Reproducibility]
 description: >
   I did not really know how unreliable it was to share
   a Shiny app as a collection of R scripts until my
