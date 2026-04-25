@@ -4,7 +4,7 @@ title: "Sharing Shiny Applications Reproducibly with
 subtitle: >
   A practical walkthrough of Dockerizing a Shiny app
   so collaborators can run it on any machine
-author: "Ronald G. Thomas"
+author: "Ronald 'Ryy' G. Thomas"
 date: "2025-06-28"
 categories: [r, docker, shiny, reproducibility, containerization]
 description: >
