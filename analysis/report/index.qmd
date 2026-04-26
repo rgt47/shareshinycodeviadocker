@@ -6,7 +6,7 @@ subtitle: >
   so collaborators can run it on any machine
 author: "Ronald 'Ryy' G. Thomas"
 date: "2025-06-28"
-categories: [r, docker, shiny, reproducibility, containerization]
+categories: [r, shiny, docker, reproducibility]
 description: >
   I did not really know how unreliable it was to share
   a Shiny app as a collection of R scripts until my
