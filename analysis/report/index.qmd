@@ -1,9 +1,6 @@
 ---
 title: "Sharing Shiny Applications Reproducibly with
   Docker"
-subtitle: >
-  A practical walkthrough of Dockerizing a Shiny app
-  so collaborators can run it on any machine
 author: "Ronald 'Ryy' G. Thomas"
 date: "2025-06-28"
 categories: [r, shiny, docker, reproducibility]
@@ -31,7 +28,7 @@ of containerised, portable software environments.
 ](media/images/hero.jpg){.img-fluid width=80%
 fig-alt="Colourful shipping containers stacked in a
 yard, symbolising Docker containers that package
-software for reliable transport."}
+software for reliable transport." fig-align="center"}
 
 *Just as shipping containers standardised global
 freight, Docker containers standardise software
